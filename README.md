@@ -1,2 +1,2 @@
-20200088	Minyewon
+Minyewon:20200088
 Kookmin Univ. SW dept.
